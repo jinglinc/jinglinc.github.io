@@ -15,7 +15,7 @@ nav_order: 5
 
 * CS 519 [Scientific Visualization](https://cs.illinois.edu/academics/courses/CS519-120218), Fall 2021
 
-* CS 361 [Prob & Stat for Computer Science](https://courses.engr.illinois.edu/cs361/fa2020/), Spring 2020 and Fall 2020
+* CS 361 [Probability & Statistics for Computer Science](https://courses.engr.illinois.edu/cs361/fa2020/), Spring 2020 and Fall 2020
 
    + Session Instructor
   

@@ -26,7 +26,7 @@ My research focus is reinforcement learning (RL). I have explored various direct
 
 **Contact**
 
-[jinglinc (at) illinois (dot) edu](jinglinc@illinois.edu)
+[jinglinc (at) illinois (dot) edu](mailto:jinglinc@illinois.edu)
 
 3307A Siebel Center, 201 North Goodwin Avenue, Urbana, IL 61801, USA
 
