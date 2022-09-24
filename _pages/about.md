@@ -1,25 +1,33 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#  align: right
+#  image: prof_pic.jpg
+#  image_circular: false # crops the image to make it circular
+#  address: >
+#    <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a final-year Ph.D. student in [Computer Science](https://cs.illinois.edu/) at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), working with [Nan Jiang](http://nanjiang.cs.illinois.edu/). Prior to that, I got my B.S. in Statistics at [Peking University](https://english.pku.edu.cn/). I have also spent time at Simons Institute, Microsoft Research (Montréal and Asia), and JPMorgan Chase Applied AI & Machine Learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focus is reinforcement learning (RL). I have explored various directions including offline/online RL under general function approximation, reward-free RL, representation learning, nonstationary RL, and Bayesian RL. I am also broadly interested in other machine learning topics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[[Google Scholar]](https://scholar.google.com/citations?user=mXzzKx4AAAAJ&hl=en&oi=ao)
+
+**Contact**
+
+[jinglinc (at) illinois (dot) edu](jinglinc@illinois.edu)
+
+3307A Siebel Center, 201 North Goodwin Avenue, Urbana, IL 61801, USA
+
+
