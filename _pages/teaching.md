@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-**Courses TA'ed at UIUC:**
+Courses TA'ed at UIUC:
 
 * CS 542 [Statistical Reinforcement Learning](http://nanjiang.cs.illinois.edu/cs542/), Fall 2022
 
