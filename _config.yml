@@ -140,7 +140,8 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    # output: true
+    output: false
     permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -170,9 +171,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - cv.md
-  - projects.md
-  - repositories.md
+  - _pages/cv.md
+  - _pages/projects.md
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
